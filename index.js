@@ -70,3 +70,4 @@ eyeImg.addEventListener("mouseout", () =>{
         passwordInp.type = "password";
     }
 })
+
